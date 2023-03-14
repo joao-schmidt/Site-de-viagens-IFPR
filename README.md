@@ -2,7 +2,7 @@
 ##**Site Viagens Web I 2023**
 ###**Projeto desenvolvido por disciplina de Web I**
 
-####T**ecnologias utilizadas**
+####**Tecnologias utilizadas**
 
 1. HTML
 2. CSS
