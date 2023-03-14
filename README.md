@@ -9,7 +9,7 @@
 3. VsCode
 4.  GitHub
 
-teste
+![logo de IFPR](https://github.com/joao-schmidt/Site-de-viagens-IFPR/blob/4523739e0c0b711752500fe54c4c5572e87b952a/logo%20ifpr.webp)
 **By João Victor**
 
 
