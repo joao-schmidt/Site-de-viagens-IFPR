@@ -149,6 +149,8 @@ header nav p {
 
 .servicos{
     padding: 15px;
+    background-color: #f19b39; 
+    padding: 35px 0;
 }
 
 .servicos .servicos-title{
@@ -199,31 +201,51 @@ header nav p {
     height: 180px;
     text-align: center;
 }
-
+/**altera parte do desenvolvido**/
 .contatos{
-height: 50px;
+height: 350px;
 background: red;
 }
 .contatos-svg { 
-   margin: 10px; 
-   height: 10px;
-   
+   height: 50px;
+   font-size: 30px;
+   text-align: center;
 }
 .contatos-svg .mail{
     color: #70ef96;
-}
+    height: 50px;
+    font-size: 30px;
+    text-align: center;}
 
 .contatos-svg .facebook{
     color: #1d61dd;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
 }
 .contatos-svg .twitter{
     color: gold;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
 }
 
 .contatos-svg .smartphone{
-    color: purple;
+    color: violet;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
 }
 
 .contatos h2 {
     font-weight: bold;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.contatos .desenvolvido{
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
 }
